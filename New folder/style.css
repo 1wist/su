@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#gameContainer {
+    text-align: center;
+}
+
+#newWordBtn {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#wordDisplay {
+    margin-top: 20px;
+    font-size: 24px;
+    min-height: 50px;
+}
